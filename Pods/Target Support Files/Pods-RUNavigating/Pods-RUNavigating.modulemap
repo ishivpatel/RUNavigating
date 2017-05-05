@@ -1,0 +1,6 @@
+framework module Pods_RUNavigating {
+  umbrella header "Pods-RUNavigating-umbrella.h"
+
+  export *
+  module * { export * }
+}
